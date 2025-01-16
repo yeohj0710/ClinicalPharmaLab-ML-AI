@@ -7,8 +7,6 @@ import shap
 import matplotlib.pyplot as plt
 import warnings
 import os
-import optuna
-from sklearn.metrics import accuracy_score
 
 # 경고 메시지 무시
 warnings.filterwarnings(action="ignore", category=UserWarning, module="xgboost")

@@ -1,0 +1,3 @@
+# data 파일 제외
+.csv
+.cpp
